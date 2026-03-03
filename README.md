@@ -20,6 +20,8 @@ This project combines Exploratory Data Analysis (EDA), Hypothesis Testing, ANOVA
 
 🗂 Dataset
 
+This is a hypothesis testing project that I've created to perform some analytics and statistical test to test hypothesis regarding the revenue increasing for cab provider named yellow trip as per their 2020 january data. The dataset can be found here.
+
 NYC Taxi Trip Data (January 2020)
 
 Features used:
