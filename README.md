@@ -18,7 +18,9 @@ How does payment type impact driver earnings?
 
 This project combines Exploratory Data Analysis (EDA), Hypothesis Testing, ANOVA, Regression Modeling, Logistic Regression, Revenue Simulation, and A/B Testing Framework to deliver business-ready insights.
 
-🗂 Dataset
+
+
+**🗂 Dataset**
 
 This is a hypothesis testing project that I've created to perform some analytics and statistical test to test hypothesis regarding the revenue increasing for cab provider named yellow trip as per their 2020 january data. The dataset can be found here. https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019
 
