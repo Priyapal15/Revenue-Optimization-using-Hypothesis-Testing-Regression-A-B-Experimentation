@@ -122,7 +122,9 @@ ROC-AUC score
 Insight:
 Payment behavior contributes to predicting high-value trips.
 
-💰 Revenue Uplift Simulation
+
+
+**💰 Revenue Uplift Simulation**
 
 Simulated 10% customer shift from Cash → Credit Card.
 
