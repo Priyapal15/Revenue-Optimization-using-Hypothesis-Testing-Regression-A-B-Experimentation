@@ -46,7 +46,9 @@ Trimmed extreme outliers (99th percentile)
 
 Encoded categorical variables
 
-🔍 Exploratory Data Analysis (EDA)
+
+
+**🔍 Exploratory Data Analysis (EDA)**
 
 Descriptive statistics by payment type
 
