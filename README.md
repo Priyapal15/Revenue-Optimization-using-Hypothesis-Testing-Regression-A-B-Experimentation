@@ -1,6 +1,6 @@
 # Revenue-Optimization-using-Hypothesis-Testing-Regression-A-B-Experimentation
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project performs an end-to-end statistical and machine learning analysis to understand the relationship between trip revenue and payment method (Credit Card vs Cash).
 
