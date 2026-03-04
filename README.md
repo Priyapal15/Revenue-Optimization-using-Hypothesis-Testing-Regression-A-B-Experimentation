@@ -64,6 +64,7 @@ Key Observation:
 Credit card payments showed higher average total fare compared to cash payments.
 
 **📊 Hypothesis Testing**
+
 1️⃣ Independent T-Test
 
 H₀ (Null Hypothesis):
