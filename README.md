@@ -99,7 +99,9 @@ Statistically significant relationship
 Business Meaning:
 Digital payments correlate with higher trip revenue.
 
-🤖 Logistic Regression (High-Fare Prediction)
+
+
+**🤖 Logistic Regression (High-Fare Prediction)**
 
 Defined high-fare trips as top 25% of revenue.
 
