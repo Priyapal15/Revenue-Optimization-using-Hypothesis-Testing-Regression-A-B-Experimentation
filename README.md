@@ -139,7 +139,7 @@ Business-scale revenue impact
 Conclusion:
 Small behavioral shifts can generate measurable revenue gains.
 
-🧪 A/B Testing Framework
+**🧪 A/B Testing Framework**
 
 Designed experimental structure:
 
