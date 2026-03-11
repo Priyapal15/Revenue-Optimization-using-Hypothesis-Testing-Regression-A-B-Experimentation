@@ -1,4 +1,4 @@
-# Revenue-Optimization-using-Hypothesis-Testing-Regression-A-B-Experimentation
+# Revenue-Optimization-using-Hypothesis-Testing-Regression-AB-Experimentation
 
 **📌 Project Overview**
 
@@ -157,7 +157,7 @@ Statistical significance validation
 
 This demonstrates real-world experimentation capability.
 
-🚕 Driver Revenue Impact Analysis
+**🚕 Driver Revenue Impact Analysis**
 
 Compared:
 
